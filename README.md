@@ -11,6 +11,7 @@ Python
 Jupyter Notebook
 
 Thư viện: TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib
+
 📂 Cấu trúc thư mục
 
 ├── Smartphone1.ipynb  

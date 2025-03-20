@@ -9,6 +9,7 @@ Dự án này sử dụng cảm biến gia tốc để thu thập dữ liệu v�
 Google colab
 Python
 Jupyter Notebook
+
 Thư viện: TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib
 📂 Cấu trúc thư mục
 

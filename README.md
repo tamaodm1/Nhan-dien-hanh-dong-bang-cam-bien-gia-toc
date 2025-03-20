@@ -1,4 +1,4 @@
-📌 Nhận diện hành động bằng cảm biến gia tốc
+📌 Nhận diện hành động bằng cảm biến gia tốc/n
 🎯 Mô tả dự án
 Dự án này sử dụng cảm biến gia tốc để thu thập dữ liệu và nhận diện các hành động của người dùng. Mục tiêu là phân loại các hành động như đi bộ, chạy, ngồi, nằm, và các hành động khác 
 

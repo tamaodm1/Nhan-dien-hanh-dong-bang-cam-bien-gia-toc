@@ -21,6 +21,7 @@ Chạy Smartphone1.ipynb
 🎯 Kết quả mong đợi
 
 ✅ Phân loại chính xác các hành động của người dùng thông qua dữ liệu cảm biến.
+
 ✅ Hiển thị biểu đồ và phân tích trực quan về kết quả nhận diện.
 
 👨‍💻 Người thực hiện
